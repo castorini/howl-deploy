@@ -7,7 +7,7 @@ This repo demonstrates how wake word detection can be easily achieved in vastly 
 
 To train a new model, please refer to our python implementation [howl](https://github.com/castorini/howl)
 
-To obtain pre-trained weight, please refer to [howl-models](https://github.com/castorini/howl-models) or simply run `git submodule update --init --recursive`
+To obtain pre-trained weights, simply run `git submodule update --init --recursive` to fetch them from [howl-models](https://github.com/castorini/howl-models)
 
 
 ## Supported languages
